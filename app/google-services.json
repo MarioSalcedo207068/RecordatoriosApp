@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "736721404298",
+    "project_id": "recyclerview-e13da",
+    "storage_bucket": "recyclerview-e13da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736721404298:android:d56f6bc214666437360873",
+        "android_client_info": {
+          "package_name": "salcedo.mario.recordatoriosapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZmXAvoJWb-k1r5uslpkLfhXoavaPD58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
